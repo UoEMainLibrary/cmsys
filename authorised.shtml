@@ -1,0 +1,44 @@
+<!--#include virtual="/includes/doctype.shtml" -->
+<html>
+<head>
+
+<title>Edinburgh University Library, Museums and Galleries: Resources: Collections</title>
+
+<!--#set var="BASEREF" value="http://www.lib.ed.ac.uk/resources/collections/cmsys/authorised.shtml" -->
+<!--#set var="LASTMODBY" value="GB" -->
+
+<meta name="author" content="Grant Buttars">
+<meta name="description" content="University of Edinburgh Library Resources: Special Collections: Collections Collections Management System">
+<meta name="distribution" content="global">
+<meta name="resource-type" content="document">
+<meta name="keywords" content="collections, special, print, printed, archives, manuscripts, university">
+<link rel ="STYLESHEET" href="/includes/main.css" type="text/css">
+<link rel ="STYLESHEET" href="/includes/main2.css" type="text/css">
+</head>
+<!--#include virtual="/includes/bodytag_a.shtml" --><a name="top"></a>
+<!-- begin layout -->
+<!--#include virtual="/includes/tabletop.shtml" -->
+<!--#include virtual="/includes/header_curve_left.shtml" -->
+<tr>
+   <!--#include virtual="/includes/navtop.shtml" --> 
+<tr>
+    <td valign=top> 
+	  <!-- =======================     CONTENT FROM NOW ON      ==================== -->
+
+      <a name="content"></a>      <h1>Special Collections: Collections Management System: Authorised Staff</h1>
+      
+      <p>Those authorised to use this system will generally be Special Collections staff only.</p>  
+      <p>Please contact Grant Buttars for further information and (if appropriate) to be added to the list of authorised staff.</p>
+      
+	  <p> <a href="./" title="Log in">Back</a> </p>
+	    <!-- =======================      END OF CONTENT      ==================== -->
+        
+	    <!-- end layout -->
+    </td>
+</tr></table>
+<!-- begin layout and margin --><table cellpadding=0 cellspacing=0 border=0 summary="" align="center">
+<tr>
+	<!--#include virtual="/includes/trailer.shtml" -->
+</tr></table>
+</body>
+</html>

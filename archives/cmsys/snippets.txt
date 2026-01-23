@@ -1,0 +1,3 @@
+UPDATE cms_auth_subj SET last_edited = NOW() WHERE last_edited LIKE '00000000000000'
+
+update cms_auth_corp set corpterm = replace(corpterm, '&amp;', '&')
