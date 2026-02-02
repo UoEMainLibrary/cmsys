@@ -1,3 +1,6 @@
 content/Pdfs
 content/us/Pdfs
 archives/cmsys/*mysql*php
+.DS_Store
+.htaccess
+.htaccess_
