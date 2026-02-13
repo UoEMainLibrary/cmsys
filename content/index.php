@@ -3,6 +3,17 @@ echo "<title>Collections Management System</title>";
 include "includes/lowerheader.php";
  ?>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HN6Y6G56JP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HN6Y6G56JP');
+</script>
+
+
 <h1>Introduction</h1>
 
 <p>The Collections Management System will be developed from existing data and from data collected as part of the RECANT process.</p>
