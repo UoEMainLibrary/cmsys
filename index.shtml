@@ -15,15 +15,6 @@
 <link rel ="STYLESHEET" href="/includes/main.css" type="text/css">
 <link rel ="STYLESHEET" href="/includes/main2.css" type="text/css">
 </head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HN6Y6G56JP"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-HN6Y6G56JP');
-</script>
 <!--#include virtual="/includes/bodytag_a.shtml" --><a name="top"></a>
 <!-- begin layout -->
 <!--#include virtual="/includes/tabletop.shtml" -->
